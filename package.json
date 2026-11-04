@@ -1,0 +1,12 @@
+{
+  "name": "buyoncue-demo",
+  "version": "1.0.0",
+  "description": "Sample project for the BuyOnCue AI bounty demo: a tiny pricing library with real tests and CI.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "license": "MIT"
+}
