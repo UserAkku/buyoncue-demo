@@ -13,3 +13,5 @@ A deliberately small project used to demonstrate **BuyOnCue**, a Telegram agent 
 ## How rewards work here
 
 The repository owner connected it to BuyOnCue. A merged pull request can earn a gift-card reward only if the owner applied the `reward-ready` label (or approved the exact final commit), the required `test` check passed, the contributor linked their GitHub account to Telegram, and the owner's spending limits allow it. Nothing in a pull request's text can authorize a payment.
+
+<!-- CI probe: verifies the pull_request check name. Not for merge. -->
